@@ -1,0 +1,43 @@
+form {
+    margin-top: 0%;
+    width: 100%;
+    height: auto;
+    padding: 10px;
+}
+
+body {
+    display: block;
+    background-color: #ffa600;
+    background-size: cover;
+}
+
+table {
+    margin: auto;
+    width: 35%;
+    box-shadow:  5px  5px 10px ;
+    color: black;
+    background-color: white;
+}
+
+input {
+    background: none;
+    color: black;
+    border-color: black;
+}
+
+textarea {
+    background: none;
+    color: black;
+    border-color: black;
+}
+
+button {
+    margin-top: 20px;
+    background: none;
+    color: black;
+    border-color: black;
+    width: 60px;
+    text-align: center;
+}
+
+

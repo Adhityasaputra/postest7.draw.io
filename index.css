@@ -1,0 +1,51 @@
+table {
+    font-family: sans-serif;
+    color: black;
+    border-collapse: collapse;
+    width: 50%;
+    border: 1px solid black;
+    margin-top: 50px;
+}
+
+body {
+    background-color: #ffa600;
+}
+
+h1{
+    margin-top: 130px;
+}
+button {
+    margin:auto;
+    background-color: white;
+    color: white;
+    border-color: black;
+    width: 100px;
+    text-align: center;
+}
+
+table tr th {
+    background: white;
+    color: black;
+    font-weight: normal;
+}
+
+table th {
+    padding: 10px;
+}
+
+table td{
+    padding: 10px;
+}
+
+table th td {
+    padding:0px 20px;
+    text-align: center;
+}
+
+table tr:nth-child(even) {
+    background: #f2f5f7;
+}
+
+table {
+    color: #000;
+}
